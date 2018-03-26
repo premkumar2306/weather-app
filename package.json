@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "yql": "^1.0.2"
+  },
+  "devDependencies": {
+    "weather-js": "^2.0.0"
   }
 }
