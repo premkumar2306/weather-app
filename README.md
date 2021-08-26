@@ -1,8 +1,7 @@
 # yweather-node
-Pull realtime weather information from yahoo weather using node.js
+Build A Weather App With Vanilla Javascript
 
-## weather-js
-  - It uses weather.service.msn.com
-## yahoo-weather
-  - It uses https://developer.yahoo.com/weather/
+## API
 
+ - Open Weather Map API : https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}
+ - Icons : "http://openweathermap.org/img/w/" + iconcode + ".png";
