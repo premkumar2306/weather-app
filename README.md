@@ -1,7 +1,19 @@
-# yweather-node
-Build A Weather App With Vanilla Javascript
 
-## API
+# Weather App
+## 🚀 About Project
+Weather App in that app you can see your local weather detail and search any state and country It's all created by Typescript
 
- - Open Weather Map API : https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}
- - Icons : "http://openweathermap.org/img/w/" + iconcode + ".png";
+
+## Tech Stack
+
+**Tech Stack:** React, Typescript , Redux , Chakra-UI
+
+![plot](./screenshot.png)
+
+## Features
+
+- Fetch location by geo Location
+- Live previews
+- Fullscreen mode
+
+
